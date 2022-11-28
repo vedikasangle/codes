@@ -1,6 +1,0 @@
-#open terminal
-cd Desktop
-touch file1.cpp
-#open file1.cpp
-#g++ file1.cpp -o file1
-./file1
