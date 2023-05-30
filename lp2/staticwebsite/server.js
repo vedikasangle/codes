@@ -60,3 +60,6 @@ function getContentType(extname) {
       return 'application/octet-stream';
   }
 }
+
+//to run, go to directory and type : "node server.js"
+//then go to http://localhost:3000/
