@@ -1,0 +1,26 @@
+//node_modules folder not included
+
+
+To create a React.js application using React hooks, you can follow these steps:
+
+Step 1: Set up a new React project using Create React App. Open your terminal or command prompt and run the following command:
+npx create-react-app react-hooks-example
+
+This will create a new directory called react-hooks-example with the basic structure and files for a React application.
+
+Step 2: Navigate to the project directory:
+
+cd react-hooks-example
+
+Step 3: Replace the contents of src/App.js with the following code:
+
+Step 4: Create a new file called src/Counter.js and add the following code:
+
+Step 5: Start the development server by running the command:
+npm start
+
+This will run your React application and open it in your default browser at http://localhost:3000.
+
+You now have a basic React application set up with a Counter component that uses the useState hook to manage the count state. The App component renders the Counter component and displays it in the browser.
+
+Feel free to modify and expand upon this code to add more functionality and components to your React application using React hooks.
