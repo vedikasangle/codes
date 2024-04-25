@@ -1,0 +1,7 @@
+
+
+/* Commands:
+denzil@denzil-VirtualBox:~/Documents/assignments$ javac BerkeleyAlgorithm.java
+
+denzil@denzil-VirtualBox:~/Documents/assignments$ java BerkeleyAlgorithm
+*/
