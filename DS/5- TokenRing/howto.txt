@@ -1,0 +1,2 @@
+compile => javac TokenRing.java
+type => java TokenRing
